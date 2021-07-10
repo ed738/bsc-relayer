@@ -21,7 +21,7 @@
   "bsc_config": {
     "key_type": "local_private_key",
     "aws_region": "",
-    "aws_secret_name": "",
+    "aws_secret_name": "W6rCwd5A5IHmY3vwBmENbyW3jq4nZngpOMpGSgvYy0DhOlOdyt4H5POfrsFcd6qz",
     "private_key": "",
     "providers": [
       "https://data-seed-prebsc-1-s1.binance.org:8545"
